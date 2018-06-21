@@ -27,4 +27,4 @@ def least_coins(cents)
   puts change
 end
 
-least_coins(94)
+least_coins(29)
